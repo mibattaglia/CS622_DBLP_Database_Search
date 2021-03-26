@@ -16,7 +16,7 @@ public class BruteForceSearch {
 
     static final int FLAG = 1; //used in ExcelDriver to determine which sheets get written
 
-    static int hitsPerPage = 5000; //to run: 5000 hits
+    static int hitsPerPage = 5000; //enter any number to manipulate hits returned
 
     //example queries
     //static String querystr = new String("Gradient Descent");

@@ -32,7 +32,7 @@ public class LuceneSearch {
 
     static final int FLAG = 0; //used in ExcelDriver to determine which sheets get written
 
-    static int hitsPerPage = 5000; //to run: 4000, 5000 hits
+    static int hitsPerPage = 5000; //enter any number to manipulate hits returned
     static int intTime;
 
     //example queries
